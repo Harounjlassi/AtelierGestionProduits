@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEB1FE0E-D95C-4D3C-87EE-84723F279B1C}|GP.Console\\GP.Console.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEB1FE0E-D95C-4D3C-87EE-84723F279B1C}|GP.Console\\GP.Console.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB1FE0E-D95C-4D3C-87EE-84723F279B1C}|GP.Console\\GP.Console.csproj|solutionrelative:gp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.domain\\chemical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.domain\\chemical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\chemical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\s11\\gestionproduit\\gp.domain\\biological.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.domain\\biological.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\biological.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\gp.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A809E36C-82B9-4502-A796-CA2EAA2CADCD}|GP.Domain\\GP.Domain.csproj|solutionrelative:gp.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,46 +38,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Biological.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Biological.cs",
               "RelativeDocumentMoniker": "GP.Domain\\Biological.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Biological.cs",
               "RelativeToolTip": "GP.Domain\\Biological.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:41:33.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Chemical.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Chemical.cs",
               "RelativeDocumentMoniker": "GP.Domain\\Chemical.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Chemical.cs",
               "RelativeToolTip": "GP.Domain\\Chemical.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:41:10.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Provider.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Provider.cs",
               "RelativeDocumentMoniker": "GP.Domain\\Provider.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Provider.cs",
               "RelativeToolTip": "GP.Domain\\Provider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA9wEwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:37:46.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Category.cs",
               "RelativeDocumentMoniker": "GP.Domain\\Category.cs",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Product.cs",
               "RelativeDocumentMoniker": "GP.Domain\\Product.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Domain\\Product.cs",
               "RelativeToolTip": "GP.Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:27:06.9Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "GP.Console\\Program.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\S11\\GestionProduit\\GP.Console\\Program.cs",
               "RelativeToolTip": "GP.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:20:50.503Z",
               "EditorCaption": ""

@@ -1,0 +1,10 @@
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\obj\Debug\GP.Console.csproj.AssemblyReference.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\obj\Debug\GP.Console.csproj.CoreCompileInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\bin\Debug\GP.Console.exe.config
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\bin\Debug\GP.Console.exe
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\bin\Debug\GP.Console.pdb
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\bin\Debug\GP.Domain.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\bin\Debug\GP.Domain.pdb
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\obj\Debug\GP.Console.csproj.Up2Date
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\obj\Debug\GP.Console.exe
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Console\obj\Debug\GP.Console.pdb

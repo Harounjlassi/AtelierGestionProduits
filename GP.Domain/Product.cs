@@ -8,6 +8,18 @@ namespace GP.Domain
 {
     public class Product
     {
+        public Product()
+        {
+        }
+
+        public Product(string name, string description, float price, DateTime dateProduction, int qunaity)
+        {
+            Name = name;
+            Description = description;
+            Price = price;
+            DateProduction = dateProduction;
+            Qunaity = qunaity;
+        }
 
         public int ProductId { get; set; }
         public String Name { get; set; }
@@ -18,6 +30,17 @@ namespace GP.Domain
         public Category Category { get; set; }
         public List<Provider> Providers { get; set; }
 
-
+        public override string ToString()
+        {
+            return "Name: " + Name + "\nDescription: " + Description + "\nPrice:" + Price + "\nDatetime: "
+                + DateProduction + "\nQuantity: " +
+                Qunaity;
+        }
+        public virtual void GetMyType()
+        {
+            Console.WriteLine( "je suis un produit" );
+        }
     }
 }
+
+

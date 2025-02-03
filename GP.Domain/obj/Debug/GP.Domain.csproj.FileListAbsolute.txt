@@ -1,0 +1,6 @@
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\bin\Debug\GP.Domain.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\bin\Debug\GP.Domain.pdb
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\obj\Debug\GP.Domain.csproj.AssemblyReference.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\obj\Debug\GP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\obj\Debug\GP.Domain.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\S11\GestionProduit\GP.Domain\obj\Debug\GP.Domain.pdb
