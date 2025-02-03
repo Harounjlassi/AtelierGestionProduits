@@ -16,23 +16,24 @@ namespace GP.Console
         {
             Product p = new Product();
             p.Name = "Test";
-            p.DateProduction = new DateTime(2025,02,02);
-            Product p2 = new Product("pommme", "ddsdfedf", 12.3f, DateTime.Now, 16);
-            Product p3 = new Product {
-                Name="bananas", 
-                Description="ddsdfedf",
-                
+            p.DateProduction = new DateTime(2025, 02, 02);
+            Product p2 = new Product("pomme", "ddsdfedf", 12.3f, DateTime.Now, 16);
+            Product p3 = new Product
+            {
+                Name = "bananas",
+                Description = "ddsdfedf",
+
             };
 
 
             System.Console.WriteLine("Liste de Products ");
             System.Console.WriteLine(p2);
 
-            Provider pr= new Provider
+            Provider pr = new Provider
             {
-                UserName="pr1",
-                Password="acccbc",
-                ConfirmPassword= "acccbc"
+                UserName = "pr1",
+                Password = "acccbc",
+                ConfirmPassword = "acccbc",
             };
             System.Console.WriteLine(pr);
             System.Console.WriteLine(pr.Login("prs1", "acccbc"));
@@ -46,11 +47,32 @@ namespace GP.Console
             //Provider.SetIsApproved(pr);
 
             //passage par valeur :la : IsApproved ne chage pas  
-            Provider.SetIsApproved(pr.Password,pr.ConfirmPassword,pr.IsApproved);
-            System.Console.WriteLine(pr.IsApproved);
-                
+            Provider.SetIsApproved(pr.Password, pr.ConfirmPassword, pr.IsApproved);
+            System.Console.WriteLine( pr.IsApproved );
 
+            System.Console.WriteLine("*******Provider********");
+
+            pr.Products = new List<Product>();
+            pr.Products.Add(p);
+            pr.Products.Add(p2);
+            //System.Console.WriteLine(pr);
+
+            // OU
+            // List<Product> l = new List<Product>() { p, p1, p2 };
+            // pr1.Products.AddRange(l);
+            // pr1.GetDetails();
+            List<Product> lsprod = pr.GetProducts("Name", "pomme");
+             foreach (Product pa in lsprod)
+             {
+                System.Console.WriteLine(pa);
+             }
             System.Console.ReadKey();
+
+
+
+             System.Console.ReadKey();
+         
+           
         }
     }
 }

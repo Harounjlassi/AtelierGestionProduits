@@ -16,17 +16,18 @@ namespace GP.Domain
         public String Password
         {
             get { return password; }
-            set {
-                if(value.Length >= 5 && value.Length <= 20)
+            set
+            {
+                if (value.Length >= 5 && value.Length <= 20)
 
                     password = value;
-            else
+                else
                     Console.WriteLine("le password doit etre entre 5 et 20");
 
-            } 
+            }
         }
-            
-   
+
+
 
 
         public bool IsApproved { get; set; }
@@ -51,7 +52,9 @@ namespace GP.Domain
         public List<Product> Products { get; set; }
         public override string ToString()
         {
-            return "userName: " + UserName + "\nPassword: " + Password;
+            return "userName: " + UserName +
+                      "\nPassword: " + Password;
+                      //+"\nProducts: " + string.Join(", ", Products);
         }
 
         //polymophism
@@ -71,21 +74,43 @@ namespace GP.Domain
         public static void SetIsApproved(Provider p)
         {
 
-            p.IsApproved=String.Compare(p.password, p.confirmpassword) == 0;
-               
+            p.IsApproved = String.Compare(p.password, p.confirmpassword) == 0;
+
         }
-        
 
 
-        public static void SetIsApproved(String p, String cf , bool Ia)
+
+        public static void SetIsApproved(String p, String cf, bool Ia)
         {
 
             Ia = String.Compare(p, cf) == 0;
 
         }
+        public List<Product> GetProducts(String filterType, String filterValue)
+        {
+            List<Product> l = new List<Product>();
+            switch (filterType)
+            {
+                case "Name":
+                    foreach (Product p in Products)
+                    {
+                        if (p.Name.Equals(filterValue))
+                            l.Add(p);
+                    }
+                    break;
+                case "Price":
+                    foreach (Product p in Products)
+                    {
+                        if (p.Price == float.Parse(filterValue))
+                            l.Add(p);
+                    }
+                    break;
+            }
+            return l;
 
 
 
 
+        }
     }
 }
